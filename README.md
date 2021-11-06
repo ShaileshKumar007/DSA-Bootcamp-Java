@@ -20,9 +20,6 @@
   <a href="https://www.linkedin.com/in/kunal-kushwaha/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>&ensp;
-  <a href="https://www.instagram.com/kunalsig/">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
-  </a>
 
 ### Join Community Classroom Groups
   <a href="https://discord.io/commclassroom">
